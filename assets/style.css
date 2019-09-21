@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif);
+}
+
+.jumbotron {
+    background-image: url(https://i.imgflip.com/1tgo0r.jpg);
+    background-position: center;
+    color: white;
+    height: 200px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: 40px;
+    padding: 10px;
+}
+
+.card-header {
+    width:100%;
+    color: white;
+    background-color:#A52A2A;
+}
+
+.card {
+   border-color:#DAA520;
+   padding-bottom: 5px;
+}
+
+.card-body{
+    padding-right: 10px;
+}
+
+#train-table th,td {
+    display: inline-block;
+    width: 16.575%;
+}
+
+.header-style {
+    color: #A52A2A;
+    background-color: #DAA520;
+    border: 5px dotted #F0E68C;
+    border-radius: 25px;
+}
